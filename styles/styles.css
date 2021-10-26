@@ -1,0 +1,27 @@
+head {
+  text-align: right;
+}
+/* Why does the head not align right? */
+
+h1 {
+  font-size: 100px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h2 {
+  color: aquamarine;
+}
+
+.button-on {
+  font-size: 64px;
+  background-color: yellow;
+}
+
+.button-off {
+  font-size: 64px;
+  background-color: pink;
+}
